@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Firstlight</title>
+        <item>
+            <title>0.2.2</title>
+            <pubDate>Thu, 17 Sep 2026 14:54:32 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.2</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[A proper first run: Firstlight now shows a new person around — your day and your agents, your friends and the leaderboard — before it asks for a photo, a name and what friends may see.
+
+Also in this version: the Agents screen with cost, streak and records; group invitations a friend can accept or decline; the day drawn as half-hour columns by tool; a handshake when a friend joins.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.2/0.2.2.zip" length="36670335" type="application/octet-stream" sparkle:edSignature="ky3XHq1R3COCmRFzfcJ5vxE1EBqtCmrEun6xcL94gE/PrkhrWDc2VHtWDXBhRglBOQbuOgTGCyRGLabv97edBA=="/>
+        </item>
+    </channel>
+</rss>
