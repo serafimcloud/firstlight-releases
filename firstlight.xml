@@ -3,6 +3,24 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.3</title>
+            <pubDate>Thu, 17 Sep 2026 18:26:47 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.3</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Firstlight 0.2.3
+
+- Recovers sign-in after temporary network failures and handles a Google sign-in callback that already created a valid session.
+- Keeps your account during token-refresh failures and retries pending activity uploads.
+- Reads OpenCode's current SQLite history, including live updates, without counting migrated history twice.
+- Adds privacy-conscious diagnostics for sign-in, updates, connectivity and app lifecycle events.
+- Includes the completed interface and agent-history fixes from the latest source commits.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.3/0.2.3.zip" length="37664237" type="application/octet-stream" sparkle:edSignature="4FsEl9v/hn7OFAKQPHfNqGD53W49y+xK8GrWKMY3EvkON5jxzKfKeLAMni/kK5EsJV/8MQ3jTJek2oRaEgGxAw=="/>
+        </item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Thu, 17 Sep 2026 14:54:32 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.2</link>
