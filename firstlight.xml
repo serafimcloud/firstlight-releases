@@ -3,6 +3,24 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.5</title>
+            <pubDate>Thu, 17 Sep 2026 20:10:38 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.5</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Firstlight 0.2.5
+
+- Fixes an interface freeze when checking for updates or resizing the menu-bar panel.
+- Shows Up to date in the update button for two seconds after a successful check, then restores Check now.
+- Makes tab changes, activity charts, loading rows and agent cards transition more smoothly, including interrupted animations.
+- Refines invitation progress, group-join feedback, profile Bump controls and list separators.
+- Improves onboarding transitions, changing text and Settings status feedback.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.5/0.2.5.zip" length="38100233" type="application/octet-stream" sparkle:edSignature="FgGYgtITxaKx8VfyT0sGz0E533rWNq/MFYRBV5qrI6OQxHYQ+FlelC0c/u0TdFcVi7q+MQT/nRVKHpd9aR45CQ=="/>
+        </item>
+        <item>
             <title>0.2.4</title>
             <pubDate>Thu, 17 Sep 2026 19:07:30 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.4</link>
@@ -37,20 +55,6 @@
 - Includes the completed interface and agent-history fixes from the latest source commits.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.3/0.2.3.zip" length="37664237" type="application/octet-stream" sparkle:edSignature="4FsEl9v/hn7OFAKQPHfNqGD53W49y+xK8GrWKMY3EvkON5jxzKfKeLAMni/kK5EsJV/8MQ3jTJek2oRaEgGxAw=="/>
-        </item>
-        <item>
-            <title>0.2.2</title>
-            <pubDate>Thu, 17 Sep 2026 14:54:32 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.2</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[A proper first run: Firstlight now shows a new person around — your day and your agents, your friends and the leaderboard — before it asks for a photo, a name and what friends may see.
-
-Also in this version: the Agents screen with cost, streak and records; group invitations a friend can accept or decline; the day drawn as half-hour columns by tool; a handshake when a friend joins.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.2/0.2.2.zip" length="36670335" type="application/octet-stream" sparkle:edSignature="ky3XHq1R3COCmRFzfcJ5vxE1EBqtCmrEun6xcL94gE/PrkhrWDc2VHtWDXBhRglBOQbuOgTGCyRGLabv97edBA=="/>
         </item>
     </channel>
 </rss>
