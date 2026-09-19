@@ -3,6 +3,25 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.7</title>
+            <pubDate>Sat, 19 Sep 2026 00:58:45 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.7</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Firstlight 0.2.7
+
+- Connect your personal Spotify app to show what you are listening to and share music with friends.
+- Open Firstlight and your agents with customizable keyboard shortcuts.
+- Choose how much app and agent activity you share with friends and on your public page.
+- Improve live presence, menu-bar friend ordering and profile navigation.
+- Fix Bump lighting and smooth countdowns, period switching, notifications, onboarding and Settings feedback.
+- Speed up public profile pages and improve their maps.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.7/Firstlight-0.2.7.zip" length="42486609" type="application/octet-stream" sparkle:edSignature="n7Tv69qpn9Za9M8NFB1JJT+LBtxBTqfo4BMhNrPPTgOeL+W22b8Gpks/XsMedkgUm0Q1YtBoa81QRs7MHaA+Ag=="/>
+        </item>
+        <item>
             <title>0.2.6</title>
             <pubDate>Fri, 18 Sep 2026 18:46:26 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.6</link>
@@ -37,24 +56,6 @@
 - Improves onboarding transitions, changing text and Settings status feedback.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.5/0.2.5.zip" length="38100233" type="application/octet-stream" sparkle:edSignature="FgGYgtITxaKx8VfyT0sGz0E533rWNq/MFYRBV5qrI6OQxHYQ+FlelC0c/u0TdFcVi7q+MQT/nRVKHpd9aR45CQ=="/>
-        </item>
-        <item>
-            <title>0.2.4</title>
-            <pubDate>Thu, 17 Sep 2026 19:07:30 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.4</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Firstlight 0.2.4
-
-- Keeps invitation links through sign-in and app restarts, and accepts group links opened in the app or carried over from the invitation download page.
-- Joining through a group link now also makes you friends with the person who invited you. Reopening the link safely retries acceptance.
-- Tracks Devin Local usage from the shared Desktop and CLI history, including active minutes and token usage.
-- Refines agent charts, profile details, onboarding, confirmation dialogs and native controls.
-- Clarifies agent connection status in Settings.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.4/0.2.4.zip" length="37988577" type="application/octet-stream" sparkle:edSignature="LxoLSZSIq4keJTyMeYLb22b2pp/xzQ1oqA3u5Wli3CR2iRa2HAwKixE+AHg01m6nuyXdk/d3MS+Gja7kKh3vBQ=="/>
         </item>
     </channel>
 </rss>
