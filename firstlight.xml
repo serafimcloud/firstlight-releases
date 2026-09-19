@@ -3,6 +3,24 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.8</title>
+            <pubDate>Sat, 19 Sep 2026 13:16:46 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.8</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Firstlight 0.2.8
+
+- Fix leaderboard rows jumping when switching tabs, periods or metrics.
+- Restore profile details and live activity on the leaderboard where sharing permissions allow them.
+- Keep loading and retry feedback within the Invite and Bump button transition.
+- Match the onboarding stats transition to the profile experience.
+- Remove unwanted blue focus rings from the menu-bar panel.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.8/Firstlight-0.2.8.zip" length="42530656" type="application/octet-stream" sparkle:edSignature="eLwOFIxA0xqSLW9wbNlbBfN6wDhK7HNEwXJ4indeUXofCr0+AR+WhUpUYDuOei3TQpw98xonXFo4d3jZvMoBCQ=="/>
+        </item>
+        <item>
             <title>0.2.7</title>
             <pubDate>Sat, 19 Sep 2026 00:58:45 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.7</link>
@@ -38,24 +56,6 @@
 - Improves agent usage counting and model recognition.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.6/Firstlight-0.2.6.zip" length="39618753" type="application/octet-stream" sparkle:edSignature="BusrnSWEvfKZaWT0P8DAkQtWxCSOa7XVtpzigUZMpyXmF3J9xtnkPJ8iAc5LdR1195MtBeVNiZ6U/NdfLbz+BQ=="/>
-        </item>
-        <item>
-            <title>0.2.5</title>
-            <pubDate>Thu, 17 Sep 2026 20:10:38 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.5</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Firstlight 0.2.5
-
-- Fixes an interface freeze when checking for updates or resizing the menu-bar panel.
-- Shows Up to date in the update button for two seconds after a successful check, then restores Check now.
-- Makes tab changes, activity charts, loading rows and agent cards transition more smoothly, including interrupted animations.
-- Refines invitation progress, group-join feedback, profile Bump controls and list separators.
-- Improves onboarding transitions, changing text and Settings status feedback.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.5/0.2.5.zip" length="38100233" type="application/octet-stream" sparkle:edSignature="FgGYgtITxaKx8VfyT0sGz0E533rWNq/MFYRBV5qrI6OQxHYQ+FlelC0c/u0TdFcVi7q+MQT/nRVKHpd9aR45CQ=="/>
         </item>
     </channel>
 </rss>
