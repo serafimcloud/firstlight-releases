@@ -3,6 +3,24 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.12</title>
+            <pubDate>Sun, 20 Sep 2026 12:58:22 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.12</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.2.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Firstlight 0.2.12
+
+Friend requests and Bump now share one consistent action button on profiles. Requests go straight to Requested, and Bump uses its animation without an extra sent message.
+
+Clearer error dialogs keep your original action available. If a response is lost, Firstlight checks what happened before offering another send.
+
+Loading appears only after 250 ms, so quick actions finish without a flashing spinner. Failed sections can be retried independently, and profile and group edits are preserved when saving fails.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.12/Firstlight-0.2.12.zip" length="42961952" type="application/octet-stream" sparkle:edSignature="kX+PO2w4RpkEH33VQKdjxRbMGIBRzDGdOqkPfoCPIetp5aK+9/VunBVcxE8kqUcXbGjCTft62XzfmC7GUpyZDw=="/>
+        </item>
+        <item>
             <title>0.2.11</title>
             <pubDate>Sun, 20 Sep 2026 09:42:34 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.11</link>
@@ -36,22 +54,6 @@ Improves privacy enforcement across profiles, rankings and friend requests.
 - Fixed privacy gaps in older API responses, cached profile access and invitation details.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.10/Firstlight-0.2.10.zip" length="42570108" type="application/octet-stream" sparkle:edSignature="u90dyUJ32aVXE8p/yUmmjAX4qI8bdzioknsZyrnxepyd32m0+xu9kPgY5NbhwALJyOlhDofw1e7WWZIDGsmRCw=="/>
-        </item>
-        <item>
-            <title>0.2.9</title>
-            <pubDate>Sat, 19 Sep 2026 17:56:39 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.9</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Firstlight 0.2.9
-
-- Fix the unavailable-profile error when adding someone from the leaderboard.
-- Show whether a friend request is available, or an invite link or code is needed.
-- Refresh request availability gracefully when someone's privacy settings change.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.9/Firstlight-0.2.9.zip" length="42549879" type="application/octet-stream" sparkle:edSignature="+vnOvf/RNfpn0vFbO0P2TYfS+kUTOcbypvrZ2rhoQlXKNUV4kbIOnMoO51ESED20fCS2BjzhtB/ZSJ4tgRIyDQ=="/>
         </item>
     </channel>
 </rss>
