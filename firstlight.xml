@@ -3,6 +3,24 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.11</title>
+            <pubDate>Sun, 20 Sep 2026 09:42:34 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.11</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.2.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Firstlight 0.2.11
+
+Profiles opened from leaderboards now consistently show basic profile information and total computer activity.
+
+App, agent and music sharing remain independent. Restores the existing privacy settings and correctly applies the onboarding sharing shortcuts without changing their appearance.
+
+Improves privacy enforcement across profiles, rankings and friend requests.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.11/Firstlight-0.2.11.zip" length="42553570" type="application/octet-stream" sparkle:edSignature="twJJQFworO6DAsDCKwgEGP/77i3KCWtKMvVsIhYTByqa5ECIMlYn6NSe0gB95hel2yy/Us34HJtqCvbnivMYCQ=="/>
+        </item>
+        <item>
             <title>0.2.10</title>
             <pubDate>Sat, 19 Sep 2026 19:40:19 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.10</link>
@@ -34,24 +52,6 @@
 - Refresh request availability gracefully when someone's privacy settings change.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.9/Firstlight-0.2.9.zip" length="42549879" type="application/octet-stream" sparkle:edSignature="+vnOvf/RNfpn0vFbO0P2TYfS+kUTOcbypvrZ2rhoQlXKNUV4kbIOnMoO51ESED20fCS2BjzhtB/ZSJ4tgRIyDQ=="/>
-        </item>
-        <item>
-            <title>0.2.8</title>
-            <pubDate>Sat, 19 Sep 2026 13:16:46 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.8</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Firstlight 0.2.8
-
-- Fix leaderboard rows jumping when switching tabs, periods or metrics.
-- Restore profile details and live activity on the leaderboard where sharing permissions allow them.
-- Keep loading and retry feedback within the Invite and Bump button transition.
-- Match the onboarding stats transition to the profile experience.
-- Remove unwanted blue focus rings from the menu-bar panel.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.8/Firstlight-0.2.8.zip" length="42530656" type="application/octet-stream" sparkle:edSignature="eLwOFIxA0xqSLW9wbNlbBfN6wDhK7HNEwXJ4indeUXofCr0+AR+WhUpUYDuOei3TQpw98xonXFo4d3jZvMoBCQ=="/>
         </item>
     </channel>
 </rss>
