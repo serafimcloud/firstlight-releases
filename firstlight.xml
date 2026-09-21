@@ -3,6 +3,22 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.14</title>
+            <pubDate>Mon, 21 Sep 2026 12:39:10 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.14</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.2.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Invite friends directly from group settings, with simpler controls for creating, saving, leaving and deleting groups.
+
+Agent activity uses each person's time zone consistently. Day statistics can scroll back through the last 24 hours, and charts wait for pointer movement before highlighting.
+
+Smoother music text, profile transitions and Invite/Bump animations. City and last-seen details take turns, long song titles repeat when no city is set, and profiles open faster.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.14/Firstlight-0.2.14.zip" length="42941732" type="application/octet-stream" sparkle:edSignature="HKbSEa30vR2Xx8aYasuxAAqLC9+x5E+ABVGTME7Ycz7Q9mSpRSZ0caTkNWFvlJWIQm2dnudGdVCDtzoyH5EoBw=="/>
+        </item>
+        <item>
             <title>0.2.13</title>
             <pubDate>Mon, 21 Sep 2026 10:13:24 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.13</link>
@@ -31,24 +47,6 @@ Clearer error dialogs keep your original action available. If a response is lost
 Loading appears only after 250 ms, so quick actions finish without a flashing spinner. Failed sections can be retried independently, and profile and group edits are preserved when saving fails.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.12/Firstlight-0.2.12.zip" length="42961952" type="application/octet-stream" sparkle:edSignature="kX+PO2w4RpkEH33VQKdjxRbMGIBRzDGdOqkPfoCPIetp5aK+9/VunBVcxE8kqUcXbGjCTft62XzfmC7GUpyZDw=="/>
-        </item>
-        <item>
-            <title>0.2.11</title>
-            <pubDate>Sun, 20 Sep 2026 09:42:34 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.11</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>0.2.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Firstlight 0.2.11
-
-Profiles opened from leaderboards now consistently show basic profile information and total computer activity.
-
-App, agent and music sharing remain independent. Restores the existing privacy settings and correctly applies the onboarding sharing shortcuts without changing their appearance.
-
-Improves privacy enforcement across profiles, rankings and friend requests.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.11/Firstlight-0.2.11.zip" length="42553570" type="application/octet-stream" sparkle:edSignature="twJJQFworO6DAsDCKwgEGP/77i3KCWtKMvVsIhYTByqa5ECIMlYn6NSe0gB95hel2yy/Us34HJtqCvbnivMYCQ=="/>
         </item>
     </channel>
 </rss>
