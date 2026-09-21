@@ -3,6 +3,22 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.15</title>
+            <pubDate>Mon, 21 Sep 2026 14:12:33 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.15</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>0.2.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Group invitations now have their own tab, showing who invited you and who is already in the group. Join and Decline update immediately, and invitations are available from both the dashboard and Settings.
+
+The menu bar fits the friends it shows, keeps selection aligned around their avatars, and avoids hover highlights while scrolling.
+
+Improves accessibility for friend codes, keeps cities readable beside long names, and makes profile and tray interactions more stable.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.15/Firstlight-0.2.15.zip" length="43168600" type="application/octet-stream" sparkle:edSignature="xkF3s4Hd6BFSKC9DgbI0kvIVhQ+f3laUANB8mzN/Pkpo1xbR1IsgL5jogEcnFDfLE3rVe5P8ufGqNHGu4McZBA=="/>
+        </item>
+        <item>
             <title>0.2.14</title>
             <pubDate>Mon, 21 Sep 2026 12:39:10 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.14</link>
@@ -29,24 +45,6 @@ Smoother music text, profile transitions and Invite/Bump animations. City and la
             <description sparkle:format="plain-text"><![CDATA[Names are now vertically centered beside the avatar when there is no status or bio to show. This applies to Friends, groups, Leaderboard, and people listed under an app.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.13/Firstlight-0.2.13.zip" length="42771075" type="application/octet-stream" sparkle:edSignature="3dG0QlPe19H2Y1kiDlu662DStFVXTW1+5iBg/EHxcuPWYEcnJOqdfxzCNhVJ30a8avsZ4AKP6y3K8n9D3K26Ag=="/>
-        </item>
-        <item>
-            <title>0.2.12</title>
-            <pubDate>Sun, 20 Sep 2026 12:58:22 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.12</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>0.2.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Firstlight 0.2.12
-
-Friend requests and Bump now share one consistent action button on profiles. Requests go straight to Requested, and Bump uses its animation without an extra sent message.
-
-Clearer error dialogs keep your original action available. If a response is lost, Firstlight checks what happened before offering another send.
-
-Loading appears only after 250 ms, so quick actions finish without a flashing spinner. Failed sections can be retried independently, and profile and group edits are preserved when saving fails.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.12/Firstlight-0.2.12.zip" length="42961952" type="application/octet-stream" sparkle:edSignature="kX+PO2w4RpkEH33VQKdjxRbMGIBRzDGdOqkPfoCPIetp5aK+9/VunBVcxE8kqUcXbGjCTft62XzfmC7GUpyZDw=="/>
         </item>
     </channel>
 </rss>
