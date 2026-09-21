@@ -3,6 +3,21 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.16</title>
+            <pubDate>Mon, 21 Sep 2026 15:51:09 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.16</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.2.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[New menu-bar controls let you choose whether friends appear there and set a maximum from one to five.
+Improves refresh feedback and keeps the day tray open while data updates.
+The onboarding transition no longer exposes the desktop between windows, and buttons now respond consistently on hover.
+Improves local recording preparation and removes unused Settings and status code.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.16/Firstlight-0.2.16.zip" length="43385040" type="application/octet-stream" sparkle:edSignature="U1jWY6/dcZrGJeyzzeYu6WZUQzmDeDonWbuGhbskI7GfsVrGasmaM5bAssB0c47Wv9kla9bQLYlPbVFchCHOBw=="/>
+        </item>
+        <item>
             <title>0.2.15</title>
             <pubDate>Mon, 21 Sep 2026 14:12:33 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.15</link>
@@ -33,18 +48,6 @@ Agent activity uses each person's time zone consistently. Day statistics can scr
 Smoother music text, profile transitions and Invite/Bump animations. City and last-seen details take turns, long song titles repeat when no city is set, and profiles open faster.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.14/Firstlight-0.2.14.zip" length="42941732" type="application/octet-stream" sparkle:edSignature="HKbSEa30vR2Xx8aYasuxAAqLC9+x5E+ABVGTME7Ycz7Q9mSpRSZ0caTkNWFvlJWIQm2dnudGdVCDtzoyH5EoBw=="/>
-        </item>
-        <item>
-            <title>0.2.13</title>
-            <pubDate>Mon, 21 Sep 2026 10:13:24 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.13</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>0.2.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Names are now vertically centered beside the avatar when there is no status or bio to show. This applies to Friends, groups, Leaderboard, and people listed under an app.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.13/Firstlight-0.2.13.zip" length="42771075" type="application/octet-stream" sparkle:edSignature="3dG0QlPe19H2Y1kiDlu662DStFVXTW1+5iBg/EHxcuPWYEcnJOqdfxzCNhVJ30a8avsZ4AKP6y3K8n9D3K26Ag=="/>
         </item>
     </channel>
 </rss>
