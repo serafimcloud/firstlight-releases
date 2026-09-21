@@ -3,6 +3,19 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.17</title>
+            <pubDate>Mon, 21 Sep 2026 16:04:11 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.17</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.2.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[New accounts now begin without automatic contacts and open on the Leaderboard until you add someone.
+Existing connections remain intact.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.17/Firstlight-0.2.17.zip" length="43387582" type="application/octet-stream" sparkle:edSignature="aBV7pkfVemW0PLHqNV9zYAhdyjGmE7q37HDKEOzRQnrFlY3zUaHl3mtfKmTIOIL6uM1E+kMb1X6zjTxlzb2FDA=="/>
+        </item>
+        <item>
             <title>0.2.16</title>
             <pubDate>Mon, 21 Sep 2026 15:51:09 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.16</link>
@@ -32,22 +45,6 @@ The menu bar fits the friends it shows, keeps selection aligned around their ava
 Improves accessibility for friend codes, keeps cities readable beside long names, and makes profile and tray interactions more stable.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.15/Firstlight-0.2.15.zip" length="43168600" type="application/octet-stream" sparkle:edSignature="xkF3s4Hd6BFSKC9DgbI0kvIVhQ+f3laUANB8mzN/Pkpo1xbR1IsgL5jogEcnFDfLE3rVe5P8ufGqNHGu4McZBA=="/>
-        </item>
-        <item>
-            <title>0.2.14</title>
-            <pubDate>Mon, 21 Sep 2026 12:39:10 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.14</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>0.2.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Invite friends directly from group settings, with simpler controls for creating, saving, leaving and deleting groups.
-
-Agent activity uses each person's time zone consistently. Day statistics can scroll back through the last 24 hours, and charts wait for pointer movement before highlighting.
-
-Smoother music text, profile transitions and Invite/Bump animations. City and last-seen details take turns, long song titles repeat when no city is set, and profiles open faster.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.14/Firstlight-0.2.14.zip" length="42941732" type="application/octet-stream" sparkle:edSignature="HKbSEa30vR2Xx8aYasuxAAqLC9+x5E+ABVGTME7Ycz7Q9mSpRSZ0caTkNWFvlJWIQm2dnudGdVCDtzoyH5EoBw=="/>
         </item>
     </channel>
 </rss>
