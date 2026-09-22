@@ -3,6 +3,24 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.20</title>
+            <pubDate>Tue, 22 Sep 2026 16:33:03 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.20</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.2.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Settings > Integrations > Websites names the site in your browser's front tab: allow a browser, tick the sites you want named, and friends read "On GitHub" instead of Chrome.
+Agent minutes now count every session: two agents through an hour are two hours, the way person-hours are.
+The Leaderboard shows who is online for everyone on it, not only your friends.
+Settings > Privacy: "Last seen and online" now hides both — with it off nobody sees you online, in the list or in their menu bar.
+A friend request opens in the panel with the note beside it, to accept or decline there.
+An update shows its download as a ring on its button, and the panel's card restarts Firstlight itself.
+Settings rows light evenly, and a group's roster reads at the size the other panels use.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.20/Firstlight-0.2.20.zip" length="44209726" type="application/octet-stream" sparkle:edSignature="TG2IFTyXDo3fpsXD8bOhHc6/tQKvWTaA5WY+ofWw0bzybrN39GGG+21qi6aByFkkq0gTAC4/AXvos2f0VeIMDQ=="/>
+        </item>
+        <item>
             <title>0.2.19</title>
             <pubDate>Tue, 22 Sep 2026 15:01:37 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.19</link>
@@ -32,19 +50,6 @@ Firstlight now reads only the agent logs it counts, not the settings and sign-in
 The open Leaderboard no longer shows presence dots that made everyone look offline.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.18/Firstlight-0.2.18.zip" length="43404377" type="application/octet-stream" sparkle:edSignature="wziX7evV0JtF0jSK6+d3woWWUkovA6FIhvqUwx6lOvkqIvksaXlu+OL/Rtl2h1Khts8l9QaHZqstZbEesQMxCg=="/>
-        </item>
-        <item>
-            <title>0.2.17</title>
-            <pubDate>Mon, 21 Sep 2026 16:04:11 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.17</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>0.2.17</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[New accounts now begin without automatic contacts and open on the Leaderboard until you add someone.
-Existing connections remain intact.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.17/Firstlight-0.2.17.zip" length="43387582" type="application/octet-stream" sparkle:edSignature="aBV7pkfVemW0PLHqNV9zYAhdyjGmE7q37HDKEOzRQnrFlY3zUaHl3mtfKmTIOIL6uM1E+kMb1X6zjTxlzb2FDA=="/>
         </item>
     </channel>
 </rss>
