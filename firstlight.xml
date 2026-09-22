@@ -3,6 +3,24 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.18</title>
+            <pubDate>Tue, 22 Sep 2026 12:03:01 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.18</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.2.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Opening "want to be friends" from Add a friend no longer freezes the app.
+The list's Refreshing button no longer stays on after the list has updated.
+Tray rows now respond to a click anywhere they light up.
+The onboarding intro keeps playing when you click outside its window.
+Settings > About > Updates has an "Update automatically" switch.
+Firstlight now reads only the agent logs it counts, not the settings and sign-in files beside them.
+The open Leaderboard no longer shows presence dots that made everyone look offline.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.18/Firstlight-0.2.18.zip" length="43404377" type="application/octet-stream" sparkle:edSignature="wziX7evV0JtF0jSK6+d3woWWUkovA6FIhvqUwx6lOvkqIvksaXlu+OL/Rtl2h1Khts8l9QaHZqstZbEesQMxCg=="/>
+        </item>
+        <item>
             <title>0.2.17</title>
             <pubDate>Mon, 21 Sep 2026 16:04:11 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.17</link>
@@ -29,22 +47,6 @@ The onboarding transition no longer exposes the desktop between windows, and but
 Improves local recording preparation and removes unused Settings and status code.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.16/Firstlight-0.2.16.zip" length="43385040" type="application/octet-stream" sparkle:edSignature="U1jWY6/dcZrGJeyzzeYu6WZUQzmDeDonWbuGhbskI7GfsVrGasmaM5bAssB0c47Wv9kla9bQLYlPbVFchCHOBw=="/>
-        </item>
-        <item>
-            <title>0.2.15</title>
-            <pubDate>Mon, 21 Sep 2026 14:12:33 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.15</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>0.2.15</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Group invitations now have their own tab, showing who invited you and who is already in the group. Join and Decline update immediately, and invitations are available from both the dashboard and Settings.
-
-The menu bar fits the friends it shows, keeps selection aligned around their avatars, and avoids hover highlights while scrolling.
-
-Improves accessibility for friend codes, keeps cities readable beside long names, and makes profile and tray interactions more stable.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.15/Firstlight-0.2.15.zip" length="43168600" type="application/octet-stream" sparkle:edSignature="xkF3s4Hd6BFSKC9DgbI0kvIVhQ+f3laUANB8mzN/Pkpo1xbR1IsgL5jogEcnFDfLE3rVe5P8ufGqNHGu4McZBA=="/>
         </item>
     </channel>
 </rss>
