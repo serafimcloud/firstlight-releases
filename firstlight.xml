@@ -3,6 +3,25 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.22</title>
+            <pubDate>Tue, 22 Sep 2026 18:38:58 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.22</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>0.2.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Declining a friend request stays between you
+
+CHANGED
+Declining a friend request no longer tells the person who sent it: on their side it still reads as sent, and on their profile you can still accept it.
+Adding back someone whose request you declined makes you friends at once.
+
+IMPROVED
+On a profile with nothing under the name, hovering the app or agents badge slides the profile down instead of making it jump.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.22/Firstlight-0.2.22.zip" length="44215463" type="application/octet-stream" sparkle:edSignature="RxPvIKhCEVLmOgdo8VnhLcDuUCNtUFFBrf59q6P7v9JZrpu+/mg2qr3VpOdzwZ+9J4cFA2x70Bc8VYofqJxKAw=="/>
+        </item>
+        <item>
             <title>0.2.21</title>
             <pubDate>Tue, 22 Sep 2026 17:39:42 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.21</link>
@@ -41,19 +60,6 @@ An update shows its download as a ring on its button, and the panel's card resta
 Settings rows light evenly, and a group's roster reads at the size the other panels use.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.20/Firstlight-0.2.20.zip" length="44209726" type="application/octet-stream" sparkle:edSignature="TG2IFTyXDo3fpsXD8bOhHc6/tQKvWTaA5WY+ofWw0bzybrN39GGG+21qi6aByFkkq0gTAC4/AXvos2f0VeIMDQ=="/>
-        </item>
-        <item>
-            <title>0.2.19</title>
-            <pubDate>Tue, 22 Sep 2026 15:01:37 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.19</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>0.2.19</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Firstlight no longer crashes on macOS 26.1 when it opens while your last session is being restored.
-Add friend now asks before sending the request, and you can add a short note that they see beside it.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.19/Firstlight-0.2.19.zip" length="43509453" type="application/octet-stream" sparkle:edSignature="J4bcfIMA9JjgQf8Jt+IvP2vxCh29Gna8MtavoF7QIg9T0aZD8VS7uYzMQOcjq5RWvU0j9IWweA774zFhiBTHCQ=="/>
         </item>
     </channel>
 </rss>
