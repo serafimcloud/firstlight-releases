@@ -3,6 +3,28 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.21</title>
+            <pubDate>Tue, 22 Sep 2026 17:39:42 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.21</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.2.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Friends now means friends, on the Leaderboard too
+
+CHANGED
+Choosing Friends, Totals or Nobody in Settings, under Privacy, keeps you off the Leaderboard: your apps, agents and time stay with your friends and your groups.
+Every account that never answered the privacy question now stands at Anyone, which is the answer the Leaderboard reads.
+
+ADDED
+firstlight.sh/changelog opens every release, this one included.
+
+IMPROVED
+The Websites page, in Settings under Integrations, draws its mark the way the rest of Settings draws its own.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.21/Firstlight-0.2.21.zip" length="44214527" type="application/octet-stream" sparkle:edSignature="VWTkNDCSBaSs8xJNZKJRaOySMi361KI/0HxcVGF9DIhChwZnd297cTf6EIdDxycFQDS7ZR7gpkrD4+Gvwu/dCw=="/>
+        </item>
+        <item>
             <title>0.2.20</title>
             <pubDate>Tue, 22 Sep 2026 16:33:03 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.20</link>
@@ -32,24 +54,6 @@ Settings rows light evenly, and a group's roster reads at the size the other pan
 Add friend now asks before sending the request, and you can add a short note that they see beside it.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.19/Firstlight-0.2.19.zip" length="43509453" type="application/octet-stream" sparkle:edSignature="J4bcfIMA9JjgQf8Jt+IvP2vxCh29Gna8MtavoF7QIg9T0aZD8VS7uYzMQOcjq5RWvU0j9IWweA774zFhiBTHCQ=="/>
-        </item>
-        <item>
-            <title>0.2.18</title>
-            <pubDate>Tue, 22 Sep 2026 12:03:01 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.18</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>0.2.18</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Opening "want to be friends" from Add a friend no longer freezes the app.
-The list's Refreshing button no longer stays on after the list has updated.
-Tray rows now respond to a click anywhere they light up.
-The onboarding intro keeps playing when you click outside its window.
-Settings > About > Updates has an "Update automatically" switch.
-Firstlight now reads only the agent logs it counts, not the settings and sign-in files beside them.
-The open Leaderboard no longer shows presence dots that made everyone look offline.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.18/Firstlight-0.2.18.zip" length="43404377" type="application/octet-stream" sparkle:edSignature="wziX7evV0JtF0jSK6+d3woWWUkovA6FIhvqUwx6lOvkqIvksaXlu+OL/Rtl2h1Khts8l9QaHZqstZbEesQMxCg=="/>
         </item>
     </channel>
 </rss>
