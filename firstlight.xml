@@ -3,6 +3,21 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.24</title>
+            <pubDate>Sat, 26 Sep 2026 13:13:49 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.24</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>0.2.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Agent activity uses less disk
+
+IMPROVED
+Firstlight now groups agent activity scans and avoids saving unchanged scan state. This reduces disk writes during long agent sessions.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.24/Firstlight-0.2.24.zip" length="45732089" type="application/octet-stream" sparkle:edSignature="aAa0ZVvVBSjdf95aMZhtdCPFhodESyMjVsRVIsbqORUnv1ixzD01Noah/9YoBApo7w+LOcZfXyA1ykftqLrTCw=="/>
+        </item>
+        <item>
             <title>0.2.23</title>
             <pubDate>Fri, 25 Sep 2026 09:43:12 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.23</link>
@@ -38,28 +53,6 @@ IMPROVED
 On a profile with nothing under the name, hovering the app or agents badge slides the profile down instead of making it jump.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.22/Firstlight-0.2.22.zip" length="44215463" type="application/octet-stream" sparkle:edSignature="RxPvIKhCEVLmOgdo8VnhLcDuUCNtUFFBrf59q6P7v9JZrpu+/mg2qr3VpOdzwZ+9J4cFA2x70Bc8VYofqJxKAw=="/>
-        </item>
-        <item>
-            <title>0.2.21</title>
-            <pubDate>Tue, 22 Sep 2026 17:39:42 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.21</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>30</sparkle:version>
-            <sparkle:shortVersionString>0.2.21</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Friends now means friends, on the Leaderboard too
-
-CHANGED
-Choosing Friends, Totals or Nobody in Settings, under Privacy, keeps you off the Leaderboard: your apps, agents and time stay with your friends and your groups.
-Every account that never answered the privacy question now stands at Anyone, which is the answer the Leaderboard reads.
-
-ADDED
-firstlight.sh/changelog opens every release, this one included.
-
-IMPROVED
-The Websites page, in Settings under Integrations, draws its mark the way the rest of Settings draws its own.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.21/Firstlight-0.2.21.zip" length="44214527" type="application/octet-stream" sparkle:edSignature="VWTkNDCSBaSs8xJNZKJRaOySMi361KI/0HxcVGF9DIhChwZnd297cTf6EIdDxycFQDS7ZR7gpkrD4+Gvwu/dCw=="/>
         </item>
     </channel>
 </rss>
