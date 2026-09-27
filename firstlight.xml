@@ -3,6 +3,23 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.25</title>
+            <pubDate>Sun, 27 Sep 2026 09:29:33 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.25</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>0.2.25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Bumps on the screen you use
+
+FIXED
+Bump arrivals now appear on your main display by default, even if your MacBook has a notch. Choose a different display in Settings > General.
+
+The Bump island no longer waits for the macOS notification permission prompt, and Firstlight checks for new arrivals when you return to the app.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.25/Firstlight-0.2.25.zip" length="45765539" type="application/octet-stream" sparkle:edSignature="wVPEaQVCkoTJETQcoU/KdDXuwd8nFBV9WN0cHeQBFM/RGmm1m4rbCpAkH0uujl7PMN6iVHzMrGF8vlYJ0h9bCA=="/>
+        </item>
+        <item>
             <title>0.2.24</title>
             <pubDate>Sat, 26 Sep 2026 13:13:49 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.24</link>
@@ -34,25 +51,6 @@ IMPROVED
 Settings no longer offers a public page before you have a username; it takes you to pick one first.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.23/Firstlight-0.2.23.zip" length="44220437" type="application/octet-stream" sparkle:edSignature="A3J5JzKvCfXymOLVRJLS/ewS1NXlGZZTIG3gqBkGcy+xUDInI2gM680hDS0/PYloPPNZrKr6r3TTDiQtvXFcAw=="/>
-        </item>
-        <item>
-            <title>0.2.22</title>
-            <pubDate>Tue, 22 Sep 2026 18:38:58 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.22</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>31</sparkle:version>
-            <sparkle:shortVersionString>0.2.22</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Declining a friend request stays between you
-
-CHANGED
-Declining a friend request no longer tells the person who sent it: on their side it still reads as sent, and on their profile you can still accept it.
-Adding back someone whose request you declined makes you friends at once.
-
-IMPROVED
-On a profile with nothing under the name, hovering the app or agents badge slides the profile down instead of making it jump.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.22/Firstlight-0.2.22.zip" length="44215463" type="application/octet-stream" sparkle:edSignature="RxPvIKhCEVLmOgdo8VnhLcDuUCNtUFFBrf59q6P7v9JZrpu+/mg2qr3VpOdzwZ+9J4cFA2x70Bc8VYofqJxKAw=="/>
         </item>
     </channel>
 </rss>
