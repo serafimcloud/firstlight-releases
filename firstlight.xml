@@ -3,6 +3,23 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.27</title>
+            <pubDate>Fri, 02 Oct 2026 09:30:35 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.27</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>0.2.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Clear confirmation after account deletion
+
+FIXED
+After deleting your account, Firstlight confirms that your account and activity have been deleted and offers to quit. It no longer opens onboarding after deletion.
+
+Reopening the sign-in window now keeps its background opaque and its controls readable.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.27/Firstlight-0.2.27.zip" length="45595377" type="application/octet-stream" sparkle:edSignature="qzfWrNFzqMlR1ohc2uwiheFUmqD7rK574gP6qi8Npx/0hpZKg/K4J2iCsq75VKbIcKAQcAxbKODQ642QLRQyBw=="/>
+        </item>
+        <item>
             <title>0.2.26</title>
             <pubDate>Thu, 01 Oct 2026 23:37:33 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.26</link>
@@ -36,21 +53,6 @@ Bump arrivals now appear on your main display by default, even if your MacBook h
 The Bump island no longer waits for the macOS notification permission prompt, and Firstlight checks for new arrivals when you return to the app.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.25/Firstlight-0.2.25.zip" length="45765539" type="application/octet-stream" sparkle:edSignature="wVPEaQVCkoTJETQcoU/KdDXuwd8nFBV9WN0cHeQBFM/RGmm1m4rbCpAkH0uujl7PMN6iVHzMrGF8vlYJ0h9bCA=="/>
-        </item>
-        <item>
-            <title>0.2.24</title>
-            <pubDate>Sat, 26 Sep 2026 13:13:49 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.24</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>33</sparkle:version>
-            <sparkle:shortVersionString>0.2.24</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Agent activity uses less disk
-
-IMPROVED
-Firstlight now groups agent activity scans and avoids saving unchanged scan state. This reduces disk writes during long agent sessions.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.24/Firstlight-0.2.24.zip" length="45732089" type="application/octet-stream" sparkle:edSignature="aAa0ZVvVBSjdf95aMZhtdCPFhodESyMjVsRVIsbqORUnv1ixzD01Noah/9YoBApo7w+LOcZfXyA1ykftqLrTCw=="/>
         </item>
     </channel>
 </rss>
