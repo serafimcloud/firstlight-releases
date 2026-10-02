@@ -3,6 +3,22 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.28</title>
+            <pubDate>Fri, 02 Oct 2026 11:51:58 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.28</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>0.2.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Bumps on the desktop you’re using
+
+FIXED
+Bumps now appear on the active display, including full-screen apps, and stay visible when you switch desktops.
+Opening Firstlight no longer hides arriving bumps or clears bumps waiting to appear.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.28/Firstlight-0.2.28.zip" length="45602947" type="application/octet-stream" sparkle:edSignature="39c834U/wmSN0dB0VbOaHb0gea7UQeK2RwSic6tc6AFyR9+ipJWoqPXHT9aDXeE0FYXb6OBjhS6qqTJoNl2kCQ=="/>
+        </item>
+        <item>
             <title>0.2.27</title>
             <pubDate>Fri, 02 Oct 2026 09:30:35 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.27</link>
@@ -36,23 +52,6 @@ CHANGED
 Deleting your account now asks for confirmation in a single dialog, without another sign-in or a typed confirmation.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.26/Firstlight-0.2.26.zip" length="45760909" type="application/octet-stream" sparkle:edSignature="4eCiVWwRarsJkgFlPio4gWazomLZG02hv91CB7A0FwuU7J0r5BHIdJVQu2azAfzc6sI8nWKZXXRVTwJXL5raCQ=="/>
-        </item>
-        <item>
-            <title>0.2.25</title>
-            <pubDate>Sun, 27 Sep 2026 09:29:33 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.25</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>0.2.25</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Bumps on the screen you use
-
-FIXED
-Bump arrivals now appear on your main display by default, even if your MacBook has a notch. Choose a different display in Settings > General.
-
-The Bump island no longer waits for the macOS notification permission prompt, and Firstlight checks for new arrivals when you return to the app.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.25/Firstlight-0.2.25.zip" length="45765539" type="application/octet-stream" sparkle:edSignature="wVPEaQVCkoTJETQcoU/KdDXuwd8nFBV9WN0cHeQBFM/RGmm1m4rbCpAkH0uujl7PMN6iVHzMrGF8vlYJ0h9bCA=="/>
         </item>
     </channel>
 </rss>
