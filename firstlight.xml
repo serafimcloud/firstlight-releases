@@ -3,6 +3,23 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.29</title>
+            <pubDate>Fri, 09 Oct 2026 12:18:45 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.29</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>0.2.29</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Agent time from Cowork and Orca
+
+FIXED
+Claude Code sessions run through Cowork in Claude Desktop now count towards your agent time.
+Codex sessions started from Orca now count towards your agent time.
+After this update Firstlight reads your agent history once more, so earlier Cowork and Orca sessions are counted too.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.29/Firstlight-0.2.29.zip" length="45618690" type="application/octet-stream" sparkle:edSignature="4HVuSE+IZZ43vq4qpGIkXrQzf+hh1W2cxAVsa2qQnANzDpD81+4E/przEgXNkM1gBHek/m9YwLgZVLdhLhHYAg=="/>
+        </item>
+        <item>
             <title>0.2.28</title>
             <pubDate>Fri, 02 Oct 2026 11:51:58 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.28</link>
@@ -34,24 +51,6 @@ After deleting your account, Firstlight confirms that your account and activity 
 Reopening the sign-in window now keeps its background opaque and its controls readable.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.27/Firstlight-0.2.27.zip" length="45595377" type="application/octet-stream" sparkle:edSignature="qzfWrNFzqMlR1ohc2uwiheFUmqD7rK574gP6qi8Npx/0hpZKg/K4J2iCsq75VKbIcKAQcAxbKODQ642QLRQyBw=="/>
-        </item>
-        <item>
-            <title>0.2.26</title>
-            <pubDate>Thu, 01 Oct 2026 23:37:33 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.26</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>0.2.26</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Account deletion that works with Google sign-in
-
-FIXED
-Accounts signed in with Google can now be deleted in Settings, under Security.
-
-CHANGED
-Deleting your account now asks for confirmation in a single dialog, without another sign-in or a typed confirmation.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.26/Firstlight-0.2.26.zip" length="45760909" type="application/octet-stream" sparkle:edSignature="4eCiVWwRarsJkgFlPio4gWazomLZG02hv91CB7A0FwuU7J0r5BHIdJVQu2azAfzc6sI8nWKZXXRVTwJXL5raCQ=="/>
         </item>
     </channel>
 </rss>
