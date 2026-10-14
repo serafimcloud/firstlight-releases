@@ -3,6 +3,22 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.31</title>
+            <pubDate>Tue, 13 Oct 2026 19:50:13 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.31</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.2.31</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Agents now counts every running agent
+
+FIXED
+"Agents now" counts every agent that worked in the last five minutes, so agents waiting on a build or on you still count.
+An agent in one tool no longer drops out of the count while another tool is working.
+]]></description>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.31/Firstlight-0.2.31.zip" length="45625565" type="application/octet-stream" sparkle:edSignature="VAvpCBwSh8Tj64t4I5qiAblfGpTnxIxFQzMoQCNE1afHZxat72y/Er5feTbV8bfOBJiO3SVu7BN/FtapEXOACw=="/>
+        </item>
+        <item>
             <title>0.2.30</title>
             <pubDate>Tue, 13 Oct 2026 11:01:26 -0700</pubDate>
             <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.30</link>
@@ -34,22 +50,6 @@ Codex sessions started from Orca now count towards your agent time.
 After this update Firstlight reads your agent history once more, so earlier Cowork and Orca sessions are counted too.
 ]]></description>
             <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.29/Firstlight-0.2.29.zip" length="45618690" type="application/octet-stream" sparkle:edSignature="4HVuSE+IZZ43vq4qpGIkXrQzf+hh1W2cxAVsa2qQnANzDpD81+4E/przEgXNkM1gBHek/m9YwLgZVLdhLhHYAg=="/>
-        </item>
-        <item>
-            <title>0.2.28</title>
-            <pubDate>Fri, 02 Oct 2026 11:51:58 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.28</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>0.2.28</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Bumps on the desktop you’re using
-
-FIXED
-Bumps now appear on the active display, including full-screen apps, and stay visible when you switch desktops.
-Opening Firstlight no longer hides arriving bumps or clears bumps waiting to appear.
-]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.28/Firstlight-0.2.28.zip" length="45602947" type="application/octet-stream" sparkle:edSignature="39c834U/wmSN0dB0VbOaHb0gea7UQeK2RwSic6tc6AFyR9+ipJWoqPXHT9aDXeE0FYXb6OBjhS6qqTJoNl2kCQ=="/>
         </item>
     </channel>
 </rss>
